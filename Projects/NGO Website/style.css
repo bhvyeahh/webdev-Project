@@ -1,0 +1,18 @@
+nav {
+    max-width: 81vw;
+    height: 82px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  nav img {
+    color: red;
+    width: 155px;
+    position: relative;
+    z-index: 10;
+  }
+  nav button {
+    position: relative;
+    z-index: 10;
+  }
